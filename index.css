@@ -1,0 +1,23 @@
+.text1{
+    text-decoration: line-through;
+    font-size: medium;
+    font-weight: bold;
+}
+.text2{
+    color: brown; 
+    background-color: yellow;
+    font-weight: bold;
+}
+.text3{
+    color: brown; 
+            letter-spacing: 5px;
+}
+.text4{
+    color: brown; 
+    text-decoration: none;
+    font-style: italic;
+    font-size: larger;
+    background-color: yellow;
+    font-weight: bold;
+
+}
